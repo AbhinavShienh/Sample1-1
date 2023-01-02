@@ -1,13 +1,1 @@
-# Sample1
-#MULTIPLICATION TABLE
-a = int(input("Enter the value of table :"))
-print("-----------------------")
-print("| MULTIPLICATION TABLE |")
-print("-----------------------")
-print()
-for i in range(2,a+1):
-    print("Table of:",i)
-    print()
-    for j in range(1,10+1):
-        print(i,"x",j,"=",i*j)
-    print()
+Multiplication Table
